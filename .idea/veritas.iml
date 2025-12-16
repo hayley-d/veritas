@@ -150,6 +150,10 @@
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, RVM: ruby-3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.7.3, RVM: ruby-3.4.1) [gem]" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
+  </component>
   <component name="RailsPaths" isManagedAutomatically="true">
     <entry key="app">
       <value>file://$MODULE_DIR$/app</value>
