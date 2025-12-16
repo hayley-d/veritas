@@ -1,4 +1,5 @@
 class Case < ApplicationRecord
+  has_many :evidence
 
   enum phases: {
     collection:  "collection",
